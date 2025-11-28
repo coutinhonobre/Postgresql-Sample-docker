@@ -1,0 +1,11 @@
+# Database data
+data/
+
+# System files
+.DS_Store
+.Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
